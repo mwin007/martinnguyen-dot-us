@@ -53,3 +53,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap-sass', '~> 3.3.6'
+
+# Added at 2018-05-13 18:32:22 -0400 by martin_nguyen:
+gem "dotenv-rails", "~> 2.4"
